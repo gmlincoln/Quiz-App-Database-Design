@@ -18,7 +18,6 @@ Below is the ER diagram for the database schema:
 
 ![ER Diagram](./1.%20ER%20Diagram/ER-Diagram%20Quiz%20App.png)
 
-> Replace `path_to_your_er_diagram_image.png` with the actual path or URL to your ER diagram image.
 
 ---
 
